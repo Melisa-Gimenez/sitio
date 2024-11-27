@@ -1,0 +1,22 @@
+.Bienvenidos{
+    width: 75%;
+    padding-right: 10px;
+    box-sizing: border-box;
+  }
+  
+  .columnas{
+    display:flex ;
+    justify-content: space-evenly;
+  
+  }
+  .Ingredientes{width: 25%;
+    background-color: rgb(72, 166, 209);
+  
+  }
+  .Preparacion{
+    background-color: aquamarine;
+    padding: 16px;
+    width: 400px;
+    height: 400px;
+  
+  }

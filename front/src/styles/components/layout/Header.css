@@ -1,0 +1,14 @@
+header{
+    background-color: rgb(163, 238, 242);
+    padding: 16px o;
+  }
+  header h1{
+    color: rgb(24, 21, 21);
+    font-size: 40px;
+    font-weight: 300;
+   font-style: cursive;
+   display: inline-block;
+   position: relative;
+   bottom: 3px;
+   margin-left: 10px;
+  }

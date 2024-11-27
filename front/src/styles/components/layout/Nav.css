@@ -1,0 +1,26 @@
+nav{
+    background-color: rgb(127, 130, 210) ;
+    margin-bottom: 20px;
+  } 
+  nav ul{
+    list-style: none;
+    margin: o;
+    padding: o;
+    display: flex;
+  }
+  nav ul li{
+    flex-grow: 1;
+  }
+  nav ul li a{
+    color: black;
+    text-decoration: wavy;
+    padding: 3px 6px ;
+    display: block;
+    text-align: center;
+  }
+  nav ul li a:hover{
+    background-color: rgba(0, 0, 0, 0.925);
+  }
+  nav ul li a.activo{
+    background-color: rgb(106, 109, 210)  ;
+  }
