@@ -4,9 +4,8 @@
   "private": true,
   "main": "index.html",
   "scripts": {
-    "deploy":"gh-pages -d front"
+    "start": "node ./bin/www"
   },
-  
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
