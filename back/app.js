@@ -6,6 +6,8 @@ var logger = require('morgan');
 
 require('dotenv').config();
 var session = require('express-session');
+var session = require('./models/bd');
+var session = require('./models/usuariosModel');
 
 
 var indexRouter = require('./routes/index');
